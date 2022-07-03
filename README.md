@@ -1,5 +1,5 @@
 # Payment-Gateway-Integration
-<h1 style="color:red"> Sparks Foundation Internship Web Development & Designing Intern Task #3: Payment Gateway Integration </h1>
+<h1 style="color:red"> Sparks Foundation Internship Web Development & Design Intern Task #3: Payment Gateway Integration </h1>
 
 <h3> Uses Technogy : </h3>
 
