@@ -1,7 +1,7 @@
 # Payment-Gateway-Integration
-<h1 style="color:red"> Sparks Foundation Internship Web Development & Design Intern Task #3: Payment Gateway Integration </h1>
+<h2 style="color:red"> The Sparks Foundation | GRIP : Graduate Rotational Internship Program | Web Development & Design Intern | Task #3: Payment Gateway Integration </h2>
 
-<h3> Uses Technogy : </h3>
+<h3> Technology Uses : </h3>
 
   Front-end : HTML & CSS
   
